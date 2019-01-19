@@ -25,4 +25,4 @@ function sayHiToGrandma(string) {
     return "YES INDEED!"
   }
 }
-8/
+*/
